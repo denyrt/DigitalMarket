@@ -1,0 +1,11 @@
+/DigitalMarket/appsettings.Development.json
+/DigitalMarket/appsettings.json
+/DigitalMarket/bin
+/DigitalMarket/obj
+/DigitalMarket.DAL/Migrations
+/DigitalMarket.DAL/obj
+/DigitalMarket.DAL/bin
+/DigitalMarket.Models/bin
+/DigitalMarket.Models/obj
+/DigitalMarket.Services/bin
+/DigitalMarket.Services/obj
